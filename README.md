@@ -1,3 +1,5 @@
+<!-- El README está muy chévere y bastante completo, el código en general de proyecto está muy bien estructurado -->
+
 # AmaSync Extension 🍿🎬☁️
 
 ## Authors:
